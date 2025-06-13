@@ -135,3 +135,7 @@ Permission is hereby granted... (full license text)
     <a href="https://github.com/MoktarCyberForge/APKHunter/issues/new?template=feature_request.md">💡 Request Feature</a>  
   </p>  
 </div>
+How to use First we need to give permission to this file install.sh using the following command:
+ chmod +x install.sh
+Then run the file using ./install.sh
+Peace be upon you. May you always be a doctor. I hope you benefit from it. 
